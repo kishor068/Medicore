@@ -1,0 +1,37 @@
+.main{
+    text-align: center;
+}
+.user
+{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 30px 0;
+}
+.para
+{
+    text-align: justify !important;
+    width: 600px;
+    height: max-content;
+    font-size: 18px;
+}
+.paraMain
+{
+   height: 100%;
+   width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 50PX;
+}
+.button{
+    border: 2px solid black;
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.l
+{
+    text-decoration: none;
+
+}
